@@ -11,7 +11,6 @@
 % GEOMETRY
  long  = 100 ;                              % Length of bar
  nelem = 100 ;                              % Number of elements
- weak = 0.10 ;                              % Fraction of weakened part  
  nnodes = nelem + 1 ;                       % Number of nodes (linear 1D elements)
  h = long/nelem ;                           % Element size
  
